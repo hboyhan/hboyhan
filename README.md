@@ -15,11 +15,8 @@ Hello there! I'm Harvey Boyhan, an aspiring cybersecurity professional and dedic
  
  
 ## 🛠️ Skills
-- **Programming Languages**: Python, HTML
-- **Frameworks and Tools**: Unknown
-- **Cloud Technologies**: Unknown
-- **Research**:Unknown
-  
+- **Programming Languages**: Python
+
 ## 📫 Contact
 Feel free to reach out or explore my work:
 - Email: [harveyboyhan23@gmail.com](mailto:harveyboyhan23@gmail.com)
