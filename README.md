@@ -11,11 +11,7 @@ Hello there! I'm Harvey Boyhan, an aspiring cybersecurity professional and dedic
  
 ## 💼 Professional Experience
 - **Tester**, Scenegraph Studios
-  - Reviewing the website for mistakes and testing some basic overloads to test server resilience.
- 
-## 📂 Featured Projects
-### Sudoku Generation Game
-Developed a Sudoku game which automatically generates a new sudoku puzzle which confirms if you have solved it.
+  - Reviewing the website for mistakes and performing basic stress testing to check server resilience.
  
  
 ## 🛠️ Skills
