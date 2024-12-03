@@ -18,5 +18,5 @@ Hello there! I'm Harvey Boyhan, an aspiring cybersecurity professional and dedic
 - **Programming Languages**: Python
 
 ## 📫 Contact
-Feel free to reach out or explore my work:
+Feel free to reach out:
 - Email: [harveyboyhan23@gmail.com](mailto:harveyboyhan23@gmail.com)
