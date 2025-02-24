@@ -6,7 +6,7 @@ Hello there! I'm Harvey Boyhan, an aspiring cybersecurity professional and dedic
  
 ## 🎓 Education
  
-- **T-Level in Digital, Production, Design and Development** - Wirral Met College (Distinction)
+- **T-Level in Digital, Production, Design and Development** - Wirral Met College (TBD)
   
  
 ## 💼 Professional Experience
